@@ -1,0 +1,1 @@
+scr_colisao_blocos()

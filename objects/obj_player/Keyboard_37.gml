@@ -1,0 +1,1 @@
+x -= moviment_speed
