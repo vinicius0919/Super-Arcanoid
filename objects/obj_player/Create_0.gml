@@ -1,1 +1,2 @@
-moviment_speed = 10
+moviment_speed = 10;
+powerup = false;
